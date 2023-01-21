@@ -1,0 +1,35 @@
+@use 'variables' as v;
+@import './mixins.scss';
+
+.About {
+    background-image: url('../images/glorious_keyboards_gmmk_2_black_96_lifestyle.webp');
+    background-size: cover;
+    height: 80vh;
+    overflow: hidden !important;
+    // display: flex;
+    // flex-direction: column;
+    // justify-content: center;
+    @include vertical-center;
+    padding: 5rem;
+    color: v.$light;
+
+    h1 {
+        font-size: 5rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+        text-shadow: 0px 0px 8px v.$darkest,
+            0px 0px 8px v.$darkest,
+            0px 0px 8px v.$darkest,
+            0px 0px 8px v.$darkest,
+            0px 0px 8px v.$darkest,
+            0px 0px 8px v.$darkest;
+    }
+}
+
+@media (min-width: 1200px) {
+    .About {
+        padding: 5rem 20%;       
+    }
+}

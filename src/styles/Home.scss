@@ -1,0 +1,40 @@
+@use 'variables' as v;
+@import './mixins.scss';
+
+
+.Home{    
+    .Hero{
+        background-image: url('../images/brand//4x/LogoImageOnly.png');
+        background-position: center;
+        background-size:auto;
+        height: 80vh;      
+        @include vertical-center;
+        text-align: center;
+        h1{
+            color: v.$darkest;
+            font-size: 3rem;
+            letter-spacing: 2px;
+        }
+    }
+    .Showup{     
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 576px) {
+ .Home{
+    .Hero{
+        h1{
+            font-size: 5rem;
+        }
+    }
+ }   
+}
+
+@media (min-width: 1600px) {
+    .Home{
+        .Showup{
+            margin: 0 15%;
+        }
+    }
+}

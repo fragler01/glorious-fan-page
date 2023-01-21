@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.btn-inactive {
+    background-color: grey;
+}
+
+.btn-active {
+    background-color: aqua;
+}
+
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+}

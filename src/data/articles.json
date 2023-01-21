@@ -1,0 +1,34 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "imageUrl": "glorious_gaming_gmmk_compact_black_keyboard_10.webp",
+            "title": "Are you not satisfied with the stock keyboards?",
+            "content": "Glorious is the first ever modular mechanical keyboard brand. Their products are perfect for keyboard enthusiasts, hobbyists and even for beginners, who are just tapping their toes in the wast see of the mechanical keyboards."
+        },
+        {
+            "id": 2,
+            "imageUrl": "gmmkpro-gallery-3_black.webp",
+            "title": "Modular, but not completly DIY",
+            "content": "We all know, that the popular gamer brands, are always running their own switches, which are fine, but in most cases, cannot be swapped. Glorious gives you the opportunity to change the switches, the keycaps and even the pcb yourself."
+        },
+        {
+            "id": 3,
+            "imageUrl": "glorious_gaming_gmmk_full_size_keyboard_white_02.webp",
+            "title": "Are you new to new to building your own keyboard?",
+            "content": "Fear not! GMMK offers the possibility to order prebuilt keyboards with the option of factory lubed switches. Hovewer, when you will be ready to get your hands dirty, they also provide the opportunity for purchasing barebones keyboards, and let you gear it up with the switches and keycaps of your decision."
+        },
+        {
+            "id": 4,
+            "imageUrl": "sizes.png",
+            "title": "Size does not matter",
+            "content": "Are you someone how cannot live without the num-pad? Does not matter, Glorious has solution for your problems. You don't have enough place for your mouse when playing your favourite games? Get one of the compact keyboards then. Would you prefer something in the middle? Go with the TKL versions. GMMK has keyboards in most of the sizes from the scale of 60% to full size."
+        },
+        {
+            "id": 5,
+            "imageUrl": "colors.png",
+            "title": "Are you going to choose the dark side?",
+            "content": "Most of GMMK keyboards are available in at least in white and black color, and some of them even have options to pink and blue. So no metter your preferances, you are guaranteed to find the color that will fit you."
+        }
+    ]
+}

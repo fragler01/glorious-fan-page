@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Aliaz",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Cherry",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Coolermaster",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Flaretech",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Gateron",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Geekmaker",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Greetech",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Hall Effect",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "IBM",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Input Club",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Kailh",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "KBT",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Logitech",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Matias",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "MOD",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "NovelKeys",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Omron",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Outemu",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Razer",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Roccat",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Steelseries",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Tesoro",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Topre",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "TTC",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "Varmilo",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "YOK",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "ZealPC",
+        "category": "brand",
+        "active": false
+    },
+    {
+        "name": "clicky",
+        "category": "switch_type",
+        "active": false
+    },
+    {
+        "name": "tactile",
+        "category": "switch_type",
+        "active": false
+    },
+    {
+        "name": "linear",
+        "category": "switch_type",
+        "active": false
+    },
+    {
+        "name": "silent",
+        "category": "switch_type",
+        "active": false
+    },
+    {
+        "name": "Cherry",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Buckling Spring",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Kailh Low Profile",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Chery",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Romer-G",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "ALPS",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Omron",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "QS1",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Tesoro",
+        "category": "stem_type",
+        "active": false
+    },
+    {
+        "name": "Topre",
+        "category": "stem_type",
+        "active": false
+    }
+]

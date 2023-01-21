@@ -1,0 +1,60 @@
+{
+    "filters": [
+        {
+            "name": "brands",
+            "value": [
+                "Aliaz",
+                "Cherry",
+                "Coolermaster",
+                "Flaretech",
+                "Gateron",
+                "Geekmaker",
+                "Greetech",
+                "Hall Effect",
+                "IBM",
+                "Input Club",
+                "Kailh",
+                "KBT",
+                "Logitech",
+                "Matias",
+                "MOD",
+                "NovelKeys",
+                "Omron",
+                "Outemu",
+                "Razer",
+                "Roccat",
+                "Steelseries",
+                "Tesoro",
+                "Topre",
+                "TTC",
+                "Varmilo",
+                "YOK",
+                "ZealPC"
+            ]
+        },
+        {
+            "name": "switch_types",
+            "value": [
+                "clicky",
+                "tactile",
+                "linear",
+                "silent"
+            ]
+        },
+        {
+            "name": "stem_types",
+            "value": [
+                "Cherry",
+                "Buckling Spring",
+                "Kailh Low Profile",
+                "Chery",
+                "Romer-G",
+                "ALPS",
+                "Omron",
+                "QS1",
+                "Tesoro",
+                "Topre"
+            ]
+        }
+    ]
+}

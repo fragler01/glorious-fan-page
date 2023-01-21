@@ -1,0 +1,60 @@
+@use './variables' as v;
+
+.Header {    
+    width: 100%;    
+    background-color: v.$dark;
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+
+    .logo {
+        img {
+            width: 180px;
+        }
+    }
+
+    .menus {
+        display: none;
+    }
+
+    .Hamburger {  
+        position: absolute;  
+        top: 1.5rem;
+        right: 1.5rem;
+        font-size: 2rem;
+        color: v.$orange;
+        &:active,:focus{
+            color: v.$primary;
+        }
+    }
+
+
+}
+
+@media (min-width: 576px) {
+    .Header {
+        box-sizing: border-box;        
+        .menus {
+            display: flex;
+            justify-content: space-evenly;
+            padding: 1rem;
+            
+
+            .link {
+                color: v.$orange;
+                text-decoration: none;
+
+                &:hover {
+                    font-weight: bold;
+                    text-shadow: v.$secondary -2px -2px;
+                }
+            }
+        }
+
+        .Hamburger {
+            display: none;
+        }
+
+    }
+
+}

@@ -1,0 +1,95 @@
+@use 'variables' as v;
+@import './mixins.scss';
+
+article {
+    .text-container {
+        padding: 1rem;
+
+        h1 {
+            padding: 0;
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+    }
+
+    .image-container {
+        padding: 1rem 0;
+        display: flex;
+        justify-content: center;
+
+        img {
+            width: 100%;                        
+        }
+    }
+
+    .desktop-only {
+        display: none;
+    }
+}
+
+.rightie {
+    .text-container {
+        padding: 2rem 1rem;
+        background-color: v.$dark;
+        color: v.$orange;
+    }
+}
+
+@media (min-width: 576px) {
+    article {
+        .text-container {
+            padding: 3rem;
+
+        }
+
+        .rightie {
+            .text-container {
+                padding: 3rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+    article{
+        display: grid;
+        grid-template-columns: 1fr 2fr;        
+        .text-container{
+            @include vertical-center;
+            padding: 3rem;
+            background-color: v.$light;
+        }
+        &:nth-last-of-type(odd){
+            grid-template-columns: 2fr 1fr;
+        }
+        .image-container{
+            img{
+                height: 100%;
+            }
+        }
+    }
+    .leftie{
+        background-color: v.$light;
+        .text-container{
+            padding: 2rem  5rem;
+            background-color: v.$light;
+        }
+        .desktop-only {
+            display: block;
+        }
+        .mobile-only{
+            display: none;
+        }
+    }
+    .rightie{
+        .text-container{
+            padding: 2rem  5rem;
+            background-color: v.$light;            
+            color: v.$darkest;
+        }
+    }
+}

@@ -1,0 +1,2270 @@
+[
+    {
+        "brand": "Aliaz",
+        "name": "silent 100g",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": 100,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Aliaz",
+        "name": "silent 60g",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Aliaz",
+        "name": "silent 70g",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": 70,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Aliaz",
+        "name": "silent 80g",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": 80,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 80,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Black RGB",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 80,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Blue",
+        "switchType": [
+            "clicky",
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 60,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Blue RGB",
+        "switchType": [
+            "clicky",
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 60,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Brown RGB",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Clear",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 65,
+        "tacForce": 95,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Clear RGB",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 65,
+        "tacForce": 95,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Green",
+        "switchType": [
+            "clicky",
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 90,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Green RGB",
+        "switchType": [
+            "clicky",
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 90,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Grey",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 110,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Grey RGB",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 110,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX linear Grey",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 115,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Low Profile Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 80,
+        "preTravel": 1.2,
+        "totalTravel": 3.2,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Low Profile Red RGB",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 80,
+        "preTravel": 1.2,
+        "totalTravel": 3.2,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Low Profile Speed",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 80,
+        "preTravel": 1,
+        "totalTravel": 3.2,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Low Profile Speed RGB",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 80,
+        "preTravel": 1,
+        "totalTravel": 3.2,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Nature White",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 55,
+        "tacForce": 65,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Red RGB",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX silent Black",
+        "switchType": [
+            "linear",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 80,
+        "preTravel": 1.9,
+        "totalTravel": 3.7,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX silent Black RGB",
+        "switchType": [
+            "linear",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 80,
+        "preTravel": 1.9,
+        "totalTravel": 3.7,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX silent Red",
+        "switchType": [
+            "linear",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 1.9,
+        "totalTravel": 3.7,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX silent Red RGB",
+        "switchType": [
+            "linear",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 1.9,
+        "totalTravel": 3.7,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Silver",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 1.2,
+        "totalTravel": 3.4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Speed Silver",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 65,
+        "preTravel": 1.2,
+        "totalTravel": 3.4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX Speed Silver RGB",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 65,
+        "preTravel": 1.2,
+        "totalTravel": 3.4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MX White",
+        "switchType": [
+            "clicky",
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 80,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Cherry",
+        "name": "MY",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Coolermaster",
+        "name": "Hybrid Capacitive",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 60,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Flaretech",
+        "name": "Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 55,
+        "tacForce": 55,
+        "preTravel": 1.5,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Flaretech",
+        "name": "Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 80,
+        "tacForce": 80,
+        "preTravel": 1.5,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Flaretech",
+        "name": "Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 55,
+        "tacForce": 55,
+        "preTravel": 1.5,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 75,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": 55,
+        "tacForce": 60,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 50,
+        "preTravel": 2.7,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Clear",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 35,
+        "tacForce": 35,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Green",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": 80,
+        "tacForce": 80,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Ink",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": 70,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 55,
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Gateron",
+        "name": "Yellow",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Geekmaker",
+        "name": "Creamy Green",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 78,
+        "tacForce": "N/A",
+        "preTravel": 0,
+        "totalTravel": "N/A",
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Geekmaker",
+        "name": "Creamy Pink",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 62,
+        "tacForce": "N/A",
+        "preTravel": 0,
+        "totalTravel": "N/A",
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Geekmaker",
+        "name": "Creamy Purple",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 67,
+        "tacForce": "N/A",
+        "preTravel": 0,
+        "totalTravel": "N/A",
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Geekmaker",
+        "name": "Creamy Yellow",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 55,
+        "tacForce": "N/A",
+        "preTravel": 0,
+        "totalTravel": "N/A",
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Greetech",
+        "name": "Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 60,
+        "tacForce": 75,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Greetech",
+        "name": "Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": 55,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Greetech",
+        "name": "Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 40,
+        "tacForce": 55,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Greetech",
+        "name": "Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 40,
+        "tacForce": 55,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Greetech",
+        "name": "Green",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 80,
+        "tacForce": 55,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Hall Effect",
+        "name": "clicky",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 60,
+        "tacForce": 65,
+        "preTravel": 0.1,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Hall Effect",
+        "name": "linear",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 60,
+        "tacForce": 65,
+        "preTravel": 0.1,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Hall Effect",
+        "name": "tactile",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 100,
+        "opForce": 60,
+        "tacForce": 65,
+        "preTravel": 0.1,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "IBM",
+        "name": "Buckling Spring",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 70,
+        "tacForce": 90,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Buckling Spring"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Hako Clear",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 55,
+        "tacForce": 75,
+        "preTravel": 2,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Hako Royal Clear",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 50,
+        "tacForce": 85,
+        "preTravel": 2,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Hako Royal True",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 60,
+        "tacForce": 85,
+        "preTravel": 2,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Hako True",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 60,
+        "tacForce": 95,
+        "preTravel": 2,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Hako Violet",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 40,
+        "tacForce": 50,
+        "preTravel": 2,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Halo Clear",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 50,
+        "tacForce": 80,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Input Club",
+        "name": "Halo True",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 55,
+        "tacForce": 100,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Ancient Grey",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 80,
+        "opForce": 95,
+        "tacForce": 100,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 80,
+        "opForce": 60,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 75,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 80,
+        "opForce": 60,
+        "tacForce": 75,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Chinese Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 80,
+        "opForce": 45,
+        "tacForce": 55,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Dark Yellow",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 80,
+        "opForce": 70,
+        "tacForce": 80,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Glaxed Green",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 50,
+        "tacForce": 50,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Jade",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Navy",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 60,
+        "tacForce": 90,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Noble Yellow",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 65,
+        "tacForce": 50,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Pale Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 60,
+        "tacForce": 80,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Pink",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 65,
+        "tacForce": 55,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 80,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box Royal",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 40,
+        "tacForce": 70,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Box White",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 80,
+        "opForce": 45,
+        "tacForce": 55,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Heavy Burnt Orange",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 100,
+        "opForce": 60,
+        "tacForce": 80,
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 100,
+        "opForce": 50,
+        "tacForce": 65,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Burnt Orange",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 100,
+        "opForce": 70,
+        "tacForce": 85,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Dark Yellow",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 70,
+        "tacForce": 85,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Jade",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 60,
+        "tacForce": 75,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Navy",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 60,
+        "tacForce": 85,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Pale Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 70,
+        "tacForce": 85,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 50,
+        "tacForce": 65,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Low Profile Choc White",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 50,
+        "tacForce": 65,
+        "preTravel": 1.5,
+        "totalTravel": 3,
+        "stemType": "Kailh Low Profile"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Pro Burgundy",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 70,
+        "preTravel": 1.7,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Pro Light Green",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.7,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Pro Purple",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 70,
+        "preTravel": 1.7,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 65,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Speed Bronze",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 65,
+        "preTravel": 1.1,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Speed Copper",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.1,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Speed Gold",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.4,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Speed Pink",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": "N/A",
+        "preTravel": 1.1,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Kailh",
+        "name": "Speed Silver",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 70,
+        "preTravel": 1.1,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "KBT",
+        "name": "Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 60,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "KBT",
+        "name": "Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "KBT",
+        "name": "Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "KBT",
+        "name": "Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 60,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Logitech",
+        "name": "GX Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 3.7,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Logitech",
+        "name": "GX Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.9,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Logitech",
+        "name": "GX Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 70,
+        "opForce": 50,
+        "tacForce": "N/A",
+        "preTravel": 1.9,
+        "totalTravel": 4,
+        "stemType": "Chery"
+    },
+    {
+        "brand": "Logitech",
+        "name": "Romer-G linear",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 70,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1.5,
+        "totalTravel": 3.2,
+        "stemType": "Romer-G"
+    },
+    {
+        "brand": "Logitech",
+        "name": "Romer-G tactile",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 70,
+        "opForce": 45,
+        "tacForce": 50,
+        "preTravel": 1.5,
+        "totalTravel": 3.2,
+        "stemType": "Romer-G"
+    },
+    {
+        "brand": "Logitech",
+        "name": "Low Profile GL tactile",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.5,
+        "totalTravel": 2.7,
+        "stemType": ""
+    },
+    {
+        "brand": "Logitech",
+        "name": "Low Profile GL linear",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": "N/A",
+        "preTravel": 1.5,
+        "totalTravel": 2.7,
+        "stemType": ""
+    },
+    {
+        "brand": "Logitech",
+        "name": "Low Profile GL clicky",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.5,
+        "totalTravel": 2.7,
+        "stemType": ""
+    },
+    {
+        "brand": "Matias",
+        "name": "Click",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": 35,
+        "preTravel": 2.2,
+        "totalTravel": 3.5,
+        "stemType": "ALPS"
+    },
+    {
+        "brand": "Matias",
+        "name": "Quiet Click",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": 35,
+        "preTravel": 2.2,
+        "totalTravel": 3.5,
+        "stemType": "ALPS"
+    },
+    {
+        "brand": "Matias",
+        "name": "Quiet linear",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 35,
+        "tacForce": 35,
+        "preTravel": 2.2,
+        "totalTravel": 3.5,
+        "stemType": "ALPS"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-H",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 62,
+        "tacForce": 78,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-H",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 62,
+        "tacForce": 78,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-L",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 45,
+        "tacForce": 62,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-L",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 45,
+        "tacForce": 62,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-M",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 55,
+        "tacForce": 68,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-M",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 55,
+        "tacForce": 68,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "MOD",
+        "name": "MOD-SH",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 70,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "NovelKeys",
+        "name": "Cream",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 55,
+        "tacForce": 70,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Omron",
+        "name": "Gamma Zulu",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1.5,
+        "totalTravel": 3.5,
+        "stemType": "Omron"
+    },
+    {
+        "brand": "Outemu",
+        "name": "Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 30,
+        "tacForce": 65,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": 40,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 40,
+        "tacForce": 55,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 62,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Click",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 75,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Dark Purple",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 68,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Dustproof Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 62,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Grey",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 75,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Light Purple",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 62,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Silver",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 68,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "ICE Teal",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": "N/A",
+        "tacForce": 68,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Outemu",
+        "name": "Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 40,
+        "tacForce": 50,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Razer",
+        "name": "clicky Optical Switch",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 100,
+        "opForce": 45,
+        "tacForce": 70,
+        "preTravel": 1.5,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Razer",
+        "name": "Green",
+        "switchType": [
+            "clicky",
+            "tactile"
+        ],
+        "keystrokes": 80,
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 1.5,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Razer",
+        "name": "linear Optical Switch",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 100,
+        "opForce": 40,
+        "tacForce": 60,
+        "preTravel": 1,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Razer",
+        "name": "Orange",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": 80,
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 1.9,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Razer",
+        "name": "Yellow",
+        "switchType": [
+            "linear",
+            "silent"
+        ],
+        "keystrokes": 80,
+        "opForce": 45,
+        "tacForce": 45,
+        "preTravel": 1.9,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Roccat",
+        "name": "Titan",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": "N/A",
+        "preTravel": 1.4,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Roccat",
+        "name": "Titan",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": "N/A",
+        "preTravel": 1.8,
+        "totalTravel": 3.6,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Steelseries",
+        "name": "QS1",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 45,
+        "tacForce": 45,
+        "preTravel": 1.5,
+        "totalTravel": 3.5,
+        "stemType": "QS1"
+    },
+    {
+        "brand": "Tesoro",
+        "name": "Agile Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1.5,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Tesoro",
+        "name": "Agile Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1.5,
+        "totalTravel": 3.5,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Tesoro",
+        "name": "Slim Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 60,
+        "opForce": 50,
+        "tacForce": "N/A",
+        "preTravel": 1,
+        "totalTravel": 3,
+        "stemType": "Tesoro"
+    },
+    {
+        "brand": "Tesoro",
+        "name": "Slim Blue",
+        "switchType": [],
+        "keystrokes": 60,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1,
+        "totalTravel": 3,
+        "stemType": "Tesoro"
+    },
+    {
+        "brand": "Topre",
+        "name": "30g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 30,
+        "tacForce": 70,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "Topre",
+        "name": "35g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 25,
+        "tacForce": 50,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "Topre",
+        "name": "45g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": 80,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "Topre",
+        "name": "45g silent",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 1.5,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "Topre",
+        "name": "45g silent",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "Topre",
+        "name": "45g silent",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 3,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "Topre",
+        "name": "55g",
+        "switchType": [
+            "tactile",
+            "silent"
+        ],
+        "keystrokes": 50,
+        "opForce": 65,
+        "tacForce": 110,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Topre"
+    },
+    {
+        "brand": "TTC",
+        "name": "Orange Black",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "TTC",
+        "name": "Orange Blue",
+        "switchType": [
+            "clicky"
+        ],
+        "keystrokes": 50,
+        "opForce": 60,
+        "tacForce": "N/A",
+        "preTravel": 2.2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "TTC",
+        "name": "Orange Brown",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "TTC",
+        "name": "Orange Red",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": 50,
+        "opForce": 45,
+        "tacForce": "N/A",
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Varmilo",
+        "name": "EC Ivy",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": "N/A",
+        "preTravel": 2.3,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Varmilo",
+        "name": "EC Rosery",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 55,
+        "tacForce": 75,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "Varmilo",
+        "name": "EC Sakura",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 45,
+        "tacForce": 60,
+        "preTravel": 2,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "YOK",
+        "name": "Red Pandas",
+        "switchType": [
+            "linear"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 50,
+        "tacForce": 60,
+        "preTravel": 0,
+        "totalTravel": "N/A",
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Orange Healios",
+        "switchType": [
+            "linear",
+            "silent"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": 67,
+        "preTravel": 4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Tiffany Blue Tealios",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": "N/A",
+        "tacForce": 67,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zealios 62 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 20,
+        "tacForce": 62,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zealios 65 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 25,
+        "tacForce": 65,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zealios 67 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 30,
+        "tacForce": 67,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zealios 78 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 40,
+        "tacForce": 78,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zilents 62 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 20,
+        "tacForce": 62,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zilents 65 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 25,
+        "tacForce": 65,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zilents 67 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 30,
+        "tacForce": 67,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    },
+    {
+        "brand": "ZealPC",
+        "name": "Zilents 78 g",
+        "switchType": [
+            "tactile"
+        ],
+        "keystrokes": "N/A",
+        "opForce": 40,
+        "tacForce": 78,
+        "preTravel": 2.4,
+        "totalTravel": 4,
+        "stemType": "Cherry"
+    }
+]

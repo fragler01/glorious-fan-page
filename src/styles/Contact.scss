@@ -1,0 +1,75 @@
+@use 'variables' as v;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.Contact {
+    text-align: center;
+
+    h1 {
+        font-size: 5rem;
+    }
+
+    margin: 1rem;
+
+    form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        width: 100vw;
+
+        input,
+        textarea,
+        button {
+            width: 100%;
+            border: none;
+            background-color: v.$lighthover;
+            margin: 0 auto 1rem auto;
+            padding: 1rem;
+            box-sizing: border-box;
+            resize: none;
+        }
+
+        button {
+            background-color: v.$dark;
+            color: v.$lighthover;
+            font-size: 2rem;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 10px;
+
+            &:hover {
+                background-color: v.$darkest;
+                cursor: pointer;
+            }
+        }
+    }
+
+
+}
+
+@media (min-width: 576px) {
+    .Contact {
+        form {
+            width: 100%;
+        }
+    }
+}
+
+
+@media (min-width: 768px) {
+    .Contact {
+        form {
+            width: 50%;
+            margin: 0 auto;
+        }
+        h1{
+            margin: 5rem;
+        }
+    }
+}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 1400px) {}
