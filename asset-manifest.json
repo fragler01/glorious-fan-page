@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/glorious-fan-page/static/css/main.77bceaaf.css",
+    "main.css": "/glorious-fan-page/static/css/main.aab02b71.css",
     "main.js": "/glorious-fan-page/static/js/main.6056b656.js",
     "static/media/sizes.png": "/glorious-fan-page/static/media/sizes.50f77954001e785a56ee.png",
     "static/media/colors.png": "/glorious-fan-page/static/media/colors.fa08757598c5b2b8907b.png",
@@ -34,11 +34,11 @@
     "static/media/navbar-logo.avif": "/glorious-fan-page/static/media/navbar-logo.4fcdbb6355e716b65ba3.avif",
     "static/media/LogoImageOnly.svg": "/glorious-fan-page/static/media/LogoImageOnly.683cbc1ad17976389a14.svg",
     "index.html": "/glorious-fan-page/index.html",
-    "main.77bceaaf.css.map": "/glorious-fan-page/static/css/main.77bceaaf.css.map",
+    "main.aab02b71.css.map": "/glorious-fan-page/static/css/main.aab02b71.css.map",
     "main.6056b656.js.map": "/glorious-fan-page/static/js/main.6056b656.js.map"
   },
   "entrypoints": [
-    "static/css/main.77bceaaf.css",
+    "static/css/main.aab02b71.css",
     "static/js/main.6056b656.js"
   ]
 }
